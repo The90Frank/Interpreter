@@ -1,0 +1,23 @@
+# IDE and editor settings
+.vscode/
+.claude/
+.idea/
+*.swp
+*.swo
+*~
+
+# OCaml build artifacts
+_build/
+*.cmi
+*.cmo
+*.cmx
+*.cma
+*.cmxa
+*.o
+*.a
+*.byte
+*.native
+
+# OS files
+.DS_Store
+Thumbs.db
